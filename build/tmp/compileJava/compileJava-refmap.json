@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/snorps/nethercontraction/mixin/DimensionTypeMixin": {
+      "coordinateScale": "Lnet/minecraft/world/level/dimension/DimensionType;m_63959_()D"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/snorps/nethercontraction/mixin/DimensionTypeMixin": {
+        "coordinateScale": "Lnet/minecraft/world/level/dimension/DimensionType;m_63959_()D"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "net.snorps.nethercontraction.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "nethercontraction.refmap.json",
+	"mixins": [
+		"DimensionTypeMixin"
+	],
+	"client": [
+	],
+	"minVersion": "0.8"
+}

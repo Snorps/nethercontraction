@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: nethercontraction
+Specification-Vendor: nethercontractionsareus
+Specification-Version: 1
+Implementation-Title: nethercontraction
+Implementation-Version: 1.0.0
+Implementation-Vendor: nethercontractionsareus
+Implementation-Timestamp: 2023-03-30T20:27:35+0100
+MixinConfigs: nethercontraction.mixins.json
+
